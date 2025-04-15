@@ -1,0 +1,20 @@
+# Web scraping dependencies
+selenium==4.18.1
+webdriver-manager==4.0.1
+
+# Data processing
+pandas==2.2.0
+numpy==1.26.3
+
+# NLP and Deep Learning
+tensorflow==2.15.0
+nltk==3.8.1
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# If using GPU
+# tensorflow-gpu==2.15.0  # Uncomment if using GPU
+
+# Utilities
+tqdm==4.66.2
